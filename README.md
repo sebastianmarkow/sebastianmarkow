@@ -15,3 +15,5 @@ Alumni of [Institute of Neuroinformatics @ RUB](https://ini.rub.de) and Mercator
 ---
 
 You can reach me via [sebastian@markow.io](mailto:sebastian@markow.io)
+
+❤️ Neuroscience
