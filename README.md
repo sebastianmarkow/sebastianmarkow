@@ -13,4 +13,4 @@ working on recommender systems across Metro's e-commerce platform.
 
 ---
 
-You can reach me at [sebastian@markow.io](mailto:sebastian@markow.io)
+You can reach me at [sebastian@markow.io](mailto:sebastian+github@markow.io)
