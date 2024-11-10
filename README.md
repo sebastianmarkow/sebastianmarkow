@@ -1,7 +1,7 @@
 ### Salut, my name is Sebastian.
 
-I'm the lead engineer (ML/MLOps) [@metro.digital](https://metro.digital),
-working on recommender systems across Metro's e-commerce platform.
+I'm a lead engineer in ML/MLOps
+working on recommender systems in online retail and e-commerce.
 
 #### Topics
 
