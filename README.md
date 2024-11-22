@@ -10,7 +10,3 @@ working on recommender systems in online retail and e-commerce.
 - representation-based learning for recommendation systems
 - low latency approximate nearest neighbor search (vector similarity)
 - model & data governance, data quality and observability
-
----
-
-You can reach me at [sebastian@markow.io](mailto:sebastian+github@markow.io)
